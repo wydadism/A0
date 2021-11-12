@@ -89,4 +89,4 @@ const Work = () => (
   </Layout>
 )
 
-
+export default Work
