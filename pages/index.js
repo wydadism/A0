@@ -131,13 +131,13 @@ const Home = () => (
         </Heading>
         <Paragraph>
           <UnorderedList my={4}>
-          </ListItem>Python Programming Language.</ListItem>
-          </ListItem>Machine Learning & Deep Learning.</ListItem>
-          </ListItem>Data Analytics & Visualization.</ListItem>
-          </ListItem>Web Scraping With Python.</ListItem>
-          </ListItem>PyTorch & Tensorflow.</ListItem>
-          </ListItem>Tableau.</ListItem>
-          </ListItem>SQL.</ListItem>
+          <ListItem>Python Programming Language.</ListItem>
+          <ListItem>Machine Learning & Deep Learning.</ListItem>
+          <ListItem>Data Analytics & Visualization.</ListItem>
+          <ListItem>Web Scraping With Python.</ListItem>
+          <ListItem>PyTorch & Tensorflow.</ListItem>
+          <ListItem>Tableau.</ListItem>
+          <ListItem>SQL.</ListItem>
           </UnorderedList>
          </Paragraph> 
       </Section>
