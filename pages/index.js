@@ -131,6 +131,7 @@ const Home = () => (
         <Paragraph>
           Python Programming Language; Machine Learning & Deep Learning; Data Analytics & Visualization; SQL; Web Scraping With Python; Tableau; PyTorch & Tensorflow.
         </Paragraph> 
+      </Section>
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           I ♥
