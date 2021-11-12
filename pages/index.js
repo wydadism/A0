@@ -180,7 +180,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.facebook.com/kamal.remidi.5/" target="_blank">
+            <Link href="https://www.facebook.com/sarri10/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -191,7 +191,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.facebook.com/sarri10/" target="_blank">
+            <Link href="https://www.facebook.com/kamal.remidi.5/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
