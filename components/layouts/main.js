@@ -15,14 +15,14 @@ const Main = ({ children, router }) => {
     <Box as="main" pb={8}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Takuya's homepage" />
-        <meta name="author" content="Takuya Matsuyama" />
-        <meta name="author" content="craftzdog" />
+        <meta name="description" content="Kamal's homepage" />
+        <meta name="author" content="Remidi Kamal" />
+        <meta name="author" content="RemidiKamal" />
         <link rel="apple-touch-icon" href="apple-touch-icon.png" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@craftzdog" />
-        <meta name="twitter:creator" content="@craftzdog" />
+        <meta name="twitter:site" content="@RemidiKamal" />
+        <meta name="twitter:creator" content="@RemidiKamal" />
         <meta name="twitter:image" content="/card.png" />
         <meta property="og:site_name" content="Remidi Kamal's Homepage" />
         <meta property="og:type" content="website" />
