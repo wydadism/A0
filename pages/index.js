@@ -67,14 +67,14 @@ const Home = () => (
 
       <Section delay={0.1}>
         <Heading as="h3" variant="section-title">
-          Work
+          who's Kamal?
         </Heading>
         <Paragraph>
           Remidi Kamal is a third year PhD Student in Marketing Department &
           Part-time Member of the analysis team for FC Midtjylland Academy.
         </Paragraph>
       <Paragraph>
-          Football Performance & Data Analyst based in Casablanca with a passion for building
+          Football Performance & Data Scientist based in Casablanca with a passion for building
           various applications of statistics and machine learning in football &
           genuinely fascinated by the tactical side of the game.
       </Paragraph>
@@ -124,7 +124,13 @@ const Home = () => (
           Works as a freelance data scientist.
         </BioSection>
       </Section>
-
+      <Section delay={0.3}>
+        <Heading as="h3" variant="section-title">
+          Skills :
+        </Heading>
+        <Paragraph>
+          Python Programming Language; Machine Learning & Deep Learning; Data Analytics & Visualization; SQL; Web Scraping With Python; Tableau; PyTorch & Tensorflow.
+        </Paragraph> 
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           I ♥
