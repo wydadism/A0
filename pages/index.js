@@ -129,8 +129,9 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           Skills :
         </Heading>
-        <Paragraph>
-          <UnorderedList my={4}>
+      </Section>
+
+      <UnorderedList my={4}>
           <ListItem>Python Programming Language.</ListItem>
           <ListItem>Machine Learning & Deep Learning.</ListItem>
           <ListItem>Data Analytics & Visualization.</ListItem>
@@ -138,9 +139,7 @@ const Home = () => (
           <ListItem>PyTorch & Tensorflow.</ListItem>
           <ListItem>Tableau.</ListItem>
           <ListItem>SQL.</ListItem>
-          </UnorderedList>
-         </Paragraph> 
-      </Section>
+      </UnorderedList>
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           I ♥
