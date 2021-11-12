@@ -10,6 +10,7 @@ import {
   List,
   ListItem,
   Icon,
+  UnorderedList,
   useColorModeValue
 } from '@chakra-ui/react'
 import { ChevronRightIcon } from '@chakra-ui/icons'
@@ -129,8 +130,16 @@ const Home = () => (
           Skills :
         </Heading>
         <Paragraph>
-          Python Programming Language; Machine Learning & Deep Learning; Data Analytics & Visualization; SQL; Web Scraping With Python; Tableau; PyTorch & Tensorflow.
-        </Paragraph> 
+          <UnorderedList my={4}>
+          </ListItem>Python Programming Language.</ListItem>
+          </ListItem>Machine Learning & Deep Learning.</ListItem>
+          </ListItem>Data Analytics & Visualization.</ListItem>
+          </ListItem>Web Scraping With Python.</ListItem>
+          </ListItem>PyTorch & Tensorflow.</ListItem>
+          </ListItem>Tableau.</ListItem>
+          </ListItem>SQL.</ListItem>
+          </UnorderedList>
+         </Paragraph> 
       </Section>
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
