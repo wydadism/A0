@@ -71,7 +71,7 @@ const Home = () => (
           who's Kamal?
         </Heading>
         <Paragraph>
-          Remidi Kamal is a third year PhD Student in Marketing Department &
+          Remidi Kamal is a first year PhD Student in Sport sciences &
           Part-time Member of the analysis team for FC Midtjylland Academy.
         </Paragraph>
       <Paragraph>
