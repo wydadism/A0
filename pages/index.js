@@ -145,23 +145,8 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-          <Link href="https://fr.wikipedia.org/wiki/Diog%C3%A8ne_de_Sinope" target="_blank">
-        Diogenes {' '}
-          </Link>
-          <Link href="https://www.youtube.com/channel/UCrxhKhYl9OTW_ARPvmqvnXQ" target="_blank">
-          , Lmorpho'{' '}
-          </Link>
-          <Link href="https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw" target="_blank">
-          , Coldplay{' '}
-          </Link>
-          <Link href="https://www.twitter.com/sscnapoli" target="_blank">
-           , SSCNAPOLI{' '}
-          </Link>
-            <Link href="https://www.imdb.com/title/tt1210166/" target="_blank">
-           , Moneyball{' '}
-          </Link>
             <Link href="https://soundcloud.com/souulaymaa" target="_blank">
-           , Soulayma ♥{' '}
+            Soulayma ♥{' '}
           </Link>
         </Paragraph>
       </Section>
