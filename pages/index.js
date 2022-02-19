@@ -117,12 +117,12 @@ const Home = () => (
           ("المدرسة الوطنية للتجارة و التسيير")
         </BioSection>
         <BioSection>
-          <BioYear>2019</BioYear>
-          PhD Student | Marketing | ENCG Casablanca (Université Hassan 2)
-        </BioSection>
-        <BioSection>
           <BioYear>2020 to present</BioYear>
           Works as a freelance data scientist.
+        </BioSection>
+        <BioSection>
+          <BioYear>2022</BioYear>
+          PhD Student | Sport Sciences | hassan 1 university | Settat ("سطات")
         </BioSection>
       </Section>
       <Section delay={0.3}>
@@ -159,6 +159,9 @@ const Home = () => (
           </Link>
             <Link href="https://www.imdb.com/title/tt1210166/" target="_blank">
            , Moneyball{' '}
+          </Link>
+            <Link href="https://soundcloud.com/souulaymaa" target="_blank">
+           , Soulayma ♥{' '}
           </Link>
         </Paragraph>
       </Section>
