@@ -37,7 +37,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello, I&apos;m a ⚽ Performance & Data Scientist based in Morocco!
+        Hello, I&apos;m a ⚽ Performance & Data Scientist based in Morocco.!
       </Box>
 
       <Box display={{ md: 'flex' }}>
